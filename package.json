@@ -1,0 +1,20 @@
+{
+    "name": "sublime-text-pack",
+    "displayName": "Sublime Text Pack",
+    "description": "Popular VS Code extensions for Sublime Text users. ",
+    "version": "0.0.2",
+    "publisher": "waderyan",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "sublime_pack.png",
+    "extensionDependencies": [ 
+        "ms-vscode.sublime-keybindings",
+        "vittorioromeo.expand-selection-to-scope",
+        "Compulim.compulim-vscode-closetag",
+        "Zarel.sublime-commands"
+    ]
+}
